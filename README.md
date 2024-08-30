@@ -1,1 +1,2 @@
-Today is friday
+Today is friday and this has been changed
+
